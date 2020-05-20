@@ -1,2 +1,2 @@
 # JavaRush.Internship2020
-Test task for Summer Internship 'Cosmopoiort'
+Test task for Summer Internship 'Cosmoport'
